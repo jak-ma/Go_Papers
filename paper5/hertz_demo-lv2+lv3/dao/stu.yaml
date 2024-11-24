@@ -1,0 +1,48 @@
+"001":
+    name: xiaoming
+    id: "001"
+    comefrom: beijing
+    sex: m
+    optime: "2024-11-23 14:28:31"
+"002":
+    name: hpl
+    id: "002"
+    comefrom: chongqing
+    sex: w
+    optime: "2024-11-23 14:31:44"
+"003":
+    name: zhangsan
+    id: "003"
+    comefrom: xi'an
+    sex: m
+    optime: "2024-11-23 14:29:07"
+"004":
+    name: testyaml
+    id: "004"
+    comefrom: golang
+    sex: m
+    optime: "2024-11-24 17:08:23"
+"006":
+    name: mjc
+    id: "006"
+    comefrom: shann/xixi'an
+    sex: w
+    optime: "2024-11-23 14:29:50"
+"009":
+    name: qwe
+    id: "009"
+    comefrom: chongqing
+    sex: w
+    optime: "2024-11-23 23:05:15"
+"0010":
+    name: qwe2
+    id: "0010"
+    comefrom: chongqing
+    sex: w
+    optime: "2024-11-24 01:02:32"
+"123":
+    name: testyaml
+    id: "123"
+    comefrom: test golang today
+    sex: m
+    optime: "2024-11-24 17:35:08"
